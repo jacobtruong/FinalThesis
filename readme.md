@@ -40,7 +40,7 @@ This directory contains the complete evaluation pipeline, raw output files, and 
   * **Function:** Runs the `pass@10` (functional correctness) and average Maintainability Index (MI) evaluations for all three model variants (`baseline`, `-dpo`, and `-dpo-further`). Each evaluation is run 5 times for each model to ensure robust and reliable results.
   * **Note:** For details on the evaluation scripts and to view the raw, unaggregated statistics for each model run, please see the `3_Evaluation/readme.md` file.
 
-## ✍️ How to Cite
+<!-- ## ✍️ How to Cite
 
 If you find this work useful in your research, please consider citing our paper:
 
@@ -50,4 +50,4 @@ If you find this work useful in your research, please consider citing our paper:
   author={Truong, Jacob and Nguyen, Van and Nguyen, Thanh Thi},
   year={2025}
 }
-```
+``` -->
